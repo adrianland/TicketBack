@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{F23D99C9-1263-4816-8BF6-ECB01DA0B0E6}|Default">
+  <MonoDevelop.Ide.ItemProperties.TicketsBack PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TicketsBack/Migrations/20221025161645_MyFirstMigration.cs">
+    <Files>
+      <File FileName="TicketsBack/Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="TicketsBack/Controllers/TicketsController.cs" Line="53" Column="1" />
+      <File FileName="TicketsBack/Models/Ticket.cs" Line="12" Column="21" />
+      <File FileName="TicketsBack/WeatherForecast.cs" Line="1" Column="1" />
+      <File FileName="TicketsBack/Startup.cs" Line="1" Column="1" />
+      <File FileName="TicketsBack/Program.cs" Line="1" Column="1" />
+      <File FileName="TicketsBack/appsettings.json" Line="11" Column="107" />
+      <File FileName="TicketsBack/Context/TicketContext.cs" Line="15" Column="6" />
+      <File FileName="TicketsBack/Migrations/20221025161645_MyFirstMigration.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TicketsBack" expanded="True">
+            <Node name="TicketsBack" expanded="True">
+              <Node name="Context" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
